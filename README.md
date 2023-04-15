@@ -1,2 +1,2 @@
 # html-website
-https://github.com/NelythF/html-website
+https://nelythf.github.io/html-website/index.html
